@@ -2,7 +2,7 @@
 
 ## Organization: ISRO
 
-### Hello guys. I am Karthik Govindan, the Software Engineer of Project Nakshatryan for SIH 1520
+### Hello guys. I am Karthik Govindan, the Software Engineer of Project Nakshatryan for SIH 1520 (Work in Progress)
 
 ## Problem Statement
 
@@ -35,6 +35,17 @@ The developed system should meet the following criteria:
 3. Develop an NTRIP client for receiving and plotting corrected data on a map.
 4. Include a user interface for real-time display with map support.
 5. Implement time-tagged data logging into a database.
+
+## Extra Features
+### On top of features like time tagged data logging whenever there is a change in location, we have some other features too :
+
+1. Perimeter drawing : You can define a perimeter (practically any shape) on the Client Side , and if any entities within the perimeter leaves, it alerts the user.
+2. Detailed information on the current weather of the location and custom updates for selected wether conditions (which can be customised in the settings).
+
+### Some features that more difficult to impliment are :
+
+3. A detailed information on the location of the marker appart from the Coordinates and Altitude could also include information like which State and Country it belongs in will be visible to the user when pressed an info button.
+
 
 ## Conclusion
 
