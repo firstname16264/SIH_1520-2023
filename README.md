@@ -1,12 +1,8 @@
-# Smart India Hackathon 2023 - Problem Statement 1520
+# Smart India Hackathon 2023 - Problem Statement 1520 
 
 ## Organization: ISRO
 
-**Team Information:**
-- **Name:** Karthik Govindan
-- **Designation:** Team Software Engineer
-- **Project:** Nakshatryan
-- **Event:** Smart India Hackathon 2023 (SIH 2023)
+### Hello guys. I am Karthik Govindan, the Software Engineer of Project Nakshatryan for SIH 1520
 
 ## Problem Statement
 
