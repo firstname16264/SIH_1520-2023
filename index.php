@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nava Rasta</title>
+    <title>Nakshatryan Map</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
         integrity="sha512-Kt4f5qVi77rZI3stUQIeCHYYNWi5AuC5uy3szrDh48vSSB7G5cc+Nmfm0K9FpNVzZc5JhFb2AqRs/8tI1nMjeg=="
@@ -66,7 +66,7 @@
             </a>
 
             <a onclick="">
-                Nava Rasta
+                Nakshatryan
             </a>
         </div>
 
