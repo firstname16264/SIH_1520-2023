@@ -40,11 +40,12 @@ The developed system should meet the following criteria:
 ### On top of features like time tagged data logging whenever there is a change in location, we have some other features too :
 
 1. Perimeter drawing : You can define a perimeter (practically any shape) on the Client Side , and if any entities within the perimeter leaves, it alerts the user.
-2. Detailed information on the current weather of the location and custom updates for selected wether conditions (which can be customised in the settings).
+2. Detailed information on the current weather of the location and custom updates for selected weather conditions (which can be customized in the settings).
 
-### Some features that more difficult to impliment are :
+### Some features that more difficult to implement are :
 
-3. A detailed information on the location of the marker appart from the Coordinates and Altitude could also include information like which State and Country it belongs in will be visible to the user when pressed an info button.
+3. A detailed information on the location of the marker apart from the Coordinates and Altitude could also include information like which State and Country it belongs in will be visible to the user when pressed an info button.
+
 
 
 ## Conclusion
